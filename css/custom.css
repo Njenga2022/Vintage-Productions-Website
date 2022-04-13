@@ -1,0 +1,38 @@
+.footer-heading,.footer-text{
+    color: white;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body{
+    background: beige;
+}
+.additional-footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color: rgb(158, 111, 93);
+}
+.staff-list{
+    background: whitesmoke;
+    color: red;
+}
+form{
+    background: darkblue;
+    border-radius: 15px;
+    padding: 15px;
+}
+label{
+    color: black;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background: rgb(132, 136, 83);
+}
